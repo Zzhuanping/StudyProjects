@@ -1,1 +1,2 @@
 # media_player
+rele1.0是一个包含音乐播放器和视频播放器的Android项目
